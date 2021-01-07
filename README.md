@@ -1,3 +1,1 @@
-# cloud_flash_payment
-
-云闪付
+# H5、公众号
